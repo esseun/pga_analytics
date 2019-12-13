@@ -22,4 +22,4 @@ Analysis results available available on: Work in Progress
    Converts html files in selected_stats_html/ folder into two column (Player Name, Stat) CSV files into selected_stats_csv_min\ folder  
 
 `python3.6 scrapePlayerProfiles.py`  
-   Scrapes pgatour.com for all players listed in player_profiles/playerProfiles.csv  
+   Scrapes pgatour.com for Country and College fields for all players listed in player_profiles/playerProfiles.csv  
