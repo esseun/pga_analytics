@@ -1,6 +1,6 @@
 # Analysis of PGA Tour Statistics
 Scripts written as part of Data Analytics Project for GSBA505B STATS at the Marshall School of Business OMBA Program (University of Southern California).  
-This repository contains python scripts used for initial data scraping of pgatour.com.
+This repository contains python scripts used for initial data scraping of pgatour.com.  
 Analysis results as well as SAS Programs (data joins) available on: Work in Progress
 
 ## Software Requirements
