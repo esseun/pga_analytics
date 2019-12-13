@@ -13,7 +13,7 @@ Analysis results available available on: Work in Progress
 ## Getting Started
 ### Data Collection
 `python3.6 scrapePGAStats.py`  
-   Scrapes pgatour.com for all stats from 2015-2019 (configurable in generateURL call) and generates html files into all_stats_html/ folder  
+   Scrapes pgatour.com for all stats from 2015-2019 (configurable in generateURL call) and generates html files into all_stats_html/ folder. Copy select folders of interest in all_stats_html/ into the selected_stats_html/ folder for CSV conversion.  
 
 `python3.6 convertToCSV.py`  
    Converts html files in selected_stats_html/ folder to CSV files AS IS into selected_stats_csv  
